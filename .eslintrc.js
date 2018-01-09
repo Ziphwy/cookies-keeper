@@ -5,6 +5,7 @@ module.exports = {
   ],
   rules: {
     'no-underscore-dangle': 'off',
-    'no-plusplus': 'off'
+    'no-plusplus': 'off',
+    'prefer-destructuring': 'off'
   }
 };
