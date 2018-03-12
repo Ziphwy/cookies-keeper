@@ -1,0 +1,33 @@
+{
+  "name": "cookies-keeper",
+  "version": "1.0.0",
+  "description": "Simulated browser save cookies",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ziphwy/cookies-keeper.git"
+  },
+  "keywords": [
+    "cookies",
+    "spider",
+    "crawler"
+  ],
+  "author": "Zifeng Huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ziphwy/cookies-keeper/issues"
+  },
+  "homepage": "https://github.com/Ziphwy/cookies-keeper#readme",
+  "devDependencies": {
+    "ava": "^0.24.0",
+    "eslint": "^4.14.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
